@@ -1,0 +1,9 @@
+body {
+  font-family: Arial;
+}
+.mensagem {
+  color: red;
+}
+.mensagem.sucesso {
+  color: green;
+}
